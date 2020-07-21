@@ -1,0 +1,487 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "ef05ddfccb3b7df72b23587eac03c42a"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "e5909a88ba1158a79ba2dbf82d6b2d86"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "156163fbbb1147485be6bfcccd89a66c"
+    },
+    {
+        "path": "/assets/css/photoswipe.css",
+        "type": "file",
+        "md5": "357f87f4e9502a5318d89e8e76e0a344"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "3ed4467ef9d8317ede9ccf8da5087d84"
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/photoswipe-ui-default.min.js",
+        "type": "file",
+        "md5": "d067f0883540b1ddda0e2c9ad1b14260"
+    },
+    {
+        "path": "/assets/js/photoswipe.min.js",
+        "type": "file",
+        "md5": "017385b552f7e0d979e2e2fe6f324015"
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "d4558e3b17c5793659d16cd1d9e33eae"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "f4c4d35432d0e17d212f2fae4e0f8247"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "7c0d2bb7276904b382e80bf2d85e8a96"
+    },
+    {
+        "path": "/assets/js/svg2js.js",
+        "type": "file",
+        "md5": "f1b2af45feed0620bb95e4521fb768c2"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/gallery-icons-dark.svg",
+        "type": "file",
+        "md5": "452594838e74a3df91ad4a20cf53c831"
+    },
+    {
+        "path": "/assets/svg/gallery-icons-light.svg",
+        "type": "file",
+        "md5": "ca77079e0fe8270a7447d7f1f5d543b0"
+    },
+    {
+        "path": "/assets/svg/search.svg",
+        "type": "file",
+        "md5": "a5bb83b82b98f41b359f20dbf9db6e44"
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "63bac2a8e88021dd997efbd9d8271be2"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/jorge",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/jorge/index.html",
+        "type": "file",
+        "md5": "3d9c8760d1410c3663480b4a04d5dc66"
+    },
+    {
+        "path": "callbacks-vs-promises-en-javascript.html",
+        "type": "file",
+        "md5": "78a415f46a533c1a9c72d4aa89064b42"
+    },
+    {
+        "path": "como-aprender-ingles-efectivamente.html",
+        "type": "file",
+        "md5": "bc03042f173dec64e33857862ef734d0"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "6d5cac6b476cd1679e85ad1393259901"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "b011015c436226ed37c10ca80391e64f"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "dc26ce6487229a819d06c9342d37c190"
+    },
+    {
+        "path": "jorge-sepulveda.html",
+        "type": "file",
+        "md5": "7bec67b60c48f75cd19b64b8d1de14f5"
+    },
+    {
+        "path": "las-ventajas-de-los-sitios-web-estaticos.html",
+        "type": "file",
+        "md5": "e8a2ef965d69861e81c202aedd3d6b78"
+    },
+    {
+        "path": "los-mejores-canales-de-youtube-para-programadores-en-el-2018.html",
+        "type": "file",
+        "md5": "b955ca0c0c3d47be9d8a7e4c8c24e873"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/files",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/1",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/1/english-2724442_1280.jpg",
+        "type": "file",
+        "md5": "51b68b37e3658dfec1bbce0fa27cdaed"
+    },
+    {
+        "path": "media/posts/1/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/1/responsive/english-2724442_1280-2xl.jpg",
+        "type": "file",
+        "md5": "9752660571d05c5c1e2122b5370c119e"
+    },
+    {
+        "path": "/media/posts/1/responsive/english-2724442_1280-lg.jpg",
+        "type": "file",
+        "md5": "af56a38d2c91599451c18a52ddf08deb"
+    },
+    {
+        "path": "/media/posts/1/responsive/english-2724442_1280-md.jpg",
+        "type": "file",
+        "md5": "53dbab5dda4c0e9ad312e0770fdb7389"
+    },
+    {
+        "path": "/media/posts/1/responsive/english-2724442_1280-sm.jpg",
+        "type": "file",
+        "md5": "9f82714894ba16b2c94b4d41b8bedca6"
+    },
+    {
+        "path": "/media/posts/1/responsive/english-2724442_1280-xl.jpg",
+        "type": "file",
+        "md5": "9752660571d05c5c1e2122b5370c119e"
+    },
+    {
+        "path": "/media/posts/1/responsive/english-2724442_1280-xs.jpg",
+        "type": "file",
+        "md5": "7d35519b99b56087061c560b7eaca440"
+    },
+    {
+        "path": "media/posts/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/2/gatas-3.jpg",
+        "type": "file",
+        "md5": "3c2a7de2452a2f0a8389dd0e1d671893"
+    },
+    {
+        "path": "/media/posts/2/halterofilia-3.jpg",
+        "type": "file",
+        "md5": "57cbd7f3c98bbf72ecbdc00139684287"
+    },
+    {
+        "path": "media/posts/2/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/2/responsive/gatas-3-2xl.jpg",
+        "type": "file",
+        "md5": "5284f0d3b6f20dc476f7ccfbb1394e7a"
+    },
+    {
+        "path": "/media/posts/2/responsive/gatas-3-lg.jpg",
+        "type": "file",
+        "md5": "5284f0d3b6f20dc476f7ccfbb1394e7a"
+    },
+    {
+        "path": "/media/posts/2/responsive/gatas-3-md.jpg",
+        "type": "file",
+        "md5": "5284f0d3b6f20dc476f7ccfbb1394e7a"
+    },
+    {
+        "path": "/media/posts/2/responsive/gatas-3-sm.jpg",
+        "type": "file",
+        "md5": "aac1fe11a8af9f7c0e90ffcec04fee39"
+    },
+    {
+        "path": "/media/posts/2/responsive/gatas-3-xl.jpg",
+        "type": "file",
+        "md5": "5284f0d3b6f20dc476f7ccfbb1394e7a"
+    },
+    {
+        "path": "/media/posts/2/responsive/gatas-3-xs.jpg",
+        "type": "file",
+        "md5": "223e930dd78257792e856287e5440d4e"
+    },
+    {
+        "path": "/media/posts/2/responsive/halterofilia-3-2xl.jpg",
+        "type": "file",
+        "md5": "821803808ab286c797623e86643f4996"
+    },
+    {
+        "path": "/media/posts/2/responsive/halterofilia-3-lg.jpg",
+        "type": "file",
+        "md5": "821803808ab286c797623e86643f4996"
+    },
+    {
+        "path": "/media/posts/2/responsive/halterofilia-3-md.jpg",
+        "type": "file",
+        "md5": "821803808ab286c797623e86643f4996"
+    },
+    {
+        "path": "/media/posts/2/responsive/halterofilia-3-sm.jpg",
+        "type": "file",
+        "md5": "7ae88aa08ecbb3462dc9107e9b5495f2"
+    },
+    {
+        "path": "/media/posts/2/responsive/halterofilia-3-xl.jpg",
+        "type": "file",
+        "md5": "821803808ab286c797623e86643f4996"
+    },
+    {
+        "path": "/media/posts/2/responsive/halterofilia-3-xs.jpg",
+        "type": "file",
+        "md5": "b6a2810b351aebb16804651cde8b6363"
+    },
+    {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/author.jpg",
+        "type": "file",
+        "md5": "3c40bcd4dd46e616030efd671aa7425b"
+    },
+    {
+        "path": "/media/website/favicon.png",
+        "type": "file",
+        "md5": "cc7e1920570f63fcca6a8aa039cd4121"
+    },
+    {
+        "path": "/media/website/herio.jpg",
+        "type": "file",
+        "md5": "9316b4bb4470572ea5b49e4b2e5d088e"
+    },
+    {
+        "path": "/media/website/opengraph.jpg",
+        "type": "file",
+        "md5": "84b1a0118eea0205cf8a68bb1d07de18"
+    },
+    {
+        "path": "media/website/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/responsive/author-2xl.jpg",
+        "type": "file",
+        "md5": "65e30c26f25a99103db83826be05b70e"
+    },
+    {
+        "path": "/media/website/responsive/author-lg.jpg",
+        "type": "file",
+        "md5": "65e30c26f25a99103db83826be05b70e"
+    },
+    {
+        "path": "/media/website/responsive/author-md.jpg",
+        "type": "file",
+        "md5": "65e30c26f25a99103db83826be05b70e"
+    },
+    {
+        "path": "/media/website/responsive/author-sm.jpg",
+        "type": "file",
+        "md5": "65e30c26f25a99103db83826be05b70e"
+    },
+    {
+        "path": "/media/website/responsive/author-xl.jpg",
+        "type": "file",
+        "md5": "65e30c26f25a99103db83826be05b70e"
+    },
+    {
+        "path": "/media/website/responsive/author-xs.jpg",
+        "type": "file",
+        "md5": "65e30c26f25a99103db83826be05b70e"
+    },
+    {
+        "path": "/media/website/responsive/favicon-2xl.png",
+        "type": "file",
+        "md5": "ec9eb15f4f265ffb63d295ebd784960a"
+    },
+    {
+        "path": "/media/website/responsive/favicon-lg.png",
+        "type": "file",
+        "md5": "ec9eb15f4f265ffb63d295ebd784960a"
+    },
+    {
+        "path": "/media/website/responsive/favicon-md.png",
+        "type": "file",
+        "md5": "ec9eb15f4f265ffb63d295ebd784960a"
+    },
+    {
+        "path": "/media/website/responsive/favicon-sm.png",
+        "type": "file",
+        "md5": "ec9eb15f4f265ffb63d295ebd784960a"
+    },
+    {
+        "path": "/media/website/responsive/favicon-xl.png",
+        "type": "file",
+        "md5": "ec9eb15f4f265ffb63d295ebd784960a"
+    },
+    {
+        "path": "/media/website/responsive/favicon-xs.png",
+        "type": "file",
+        "md5": "ec9eb15f4f265ffb63d295ebd784960a"
+    },
+    {
+        "path": "/media/website/responsive/herio-2xl.jpg",
+        "type": "file",
+        "md5": "4786e2f61b50062bcac0fb31da87f5e5"
+    },
+    {
+        "path": "/media/website/responsive/herio-lg.jpg",
+        "type": "file",
+        "md5": "824f4b02b81373e0c8da3829e548a7e1"
+    },
+    {
+        "path": "/media/website/responsive/herio-md.jpg",
+        "type": "file",
+        "md5": "5b8dd67ea9cd1899761bb24f12d1260d"
+    },
+    {
+        "path": "/media/website/responsive/herio-sm.jpg",
+        "type": "file",
+        "md5": "56f0020584576c1402ec2ef512c8dfd0"
+    },
+    {
+        "path": "/media/website/responsive/herio-xl.jpg",
+        "type": "file",
+        "md5": "7bd1f7aab73c0bee0ed08c50496ea173"
+    },
+    {
+        "path": "/media/website/responsive/herio-xs.jpg",
+        "type": "file",
+        "md5": "32f9a3c7b21f8a451e18d092a786d9f5"
+    },
+    {
+        "path": "/media/website/responsive/opengraph-2xl.jpg",
+        "type": "file",
+        "md5": "d17747243f6076ad71e5e6a230c75225"
+    },
+    {
+        "path": "/media/website/responsive/opengraph-lg.jpg",
+        "type": "file",
+        "md5": "8edd51fadb5dba85617b9b8398d445c2"
+    },
+    {
+        "path": "/media/website/responsive/opengraph-md.jpg",
+        "type": "file",
+        "md5": "df03fd5643576e3d1e6142ae65d52671"
+    },
+    {
+        "path": "/media/website/responsive/opengraph-sm.jpg",
+        "type": "file",
+        "md5": "7f896b6b79567fbf624a4ac0801b72cb"
+    },
+    {
+        "path": "/media/website/responsive/opengraph-xl.jpg",
+        "type": "file",
+        "md5": "43f695ff3a9f6ea9874c2956e456a768"
+    },
+    {
+        "path": "/media/website/responsive/opengraph-xs.jpg",
+        "type": "file",
+        "md5": "c642c8202ab943dcaee2409a1771af9f"
+    },
+    {
+        "path": "metodos-de-iteracion-sobre-arrays-en-javascript.html",
+        "type": "file",
+        "md5": "58611767c4445149747a42cf6bc1e2df"
+    },
+    {
+        "path": "search.html",
+        "type": "file",
+        "md5": "1826fdede5b8772582df0f39718957cd"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "651b59ccaff008826f64be17c5a93b34"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "51a7bcec43fa1ef0366100d5c2edbe75"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "tags/aprendizaje",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/aprendizaje/index.html",
+        "type": "file",
+        "md5": "f20f5feb0a69050dc90bfddc498d63b3"
+    },
+    {
+        "path": "tags/ingles",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/ingles/index.html",
+        "type": "file",
+        "md5": "4d7da24eaf0702b15f4cba2489d68dd6"
+    }
+]

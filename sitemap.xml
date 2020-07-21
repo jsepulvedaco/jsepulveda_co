@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://sleepy-beaver-9ce1de.netlify.app/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://sleepy-beaver-9ce1de.netlify.app/</loc>
+</url>
+<url>
+<loc>https://sleepy-beaver-9ce1de.netlify.app/callbacks-vs-promises-en-javascript.html</loc>
+<lastmod>2020-07-21T01:16:58-05:00</lastmod>
+</url>
+<url>
+<loc>https://sleepy-beaver-9ce1de.netlify.app/como-aprender-ingles-efectivamente.html</loc>
+<lastmod>2020-07-21T09:57:41-05:00</lastmod>
+<image:image>
+<image:loc>https://sleepy-beaver-9ce1de.netlify.app/media/posts/1/english-2724442_1280.jpg</image:loc>
+<image:title><![CDATA[Banner sobre el idioma inglés]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://sleepy-beaver-9ce1de.netlify.app/jorge-sepulveda.html</loc>
+<lastmod>2020-07-21T15:50:09-05:00</lastmod>
+<image:image>
+<image:loc>https://sleepy-beaver-9ce1de.netlify.app/media/posts/2/gatas-3.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://sleepy-beaver-9ce1de.netlify.app/media/posts/2/halterofilia-3.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://sleepy-beaver-9ce1de.netlify.app/las-ventajas-de-los-sitios-web-estaticos.html</loc>
+<lastmod>2020-07-21T01:27:06-05:00</lastmod>
+</url>
+<url>
+<loc>https://sleepy-beaver-9ce1de.netlify.app/los-mejores-canales-de-youtube-para-programadores-en-el-2018.html</loc>
+<lastmod>2020-07-21T03:13:25-05:00</lastmod>
+</url>
+<url>
+<loc>https://sleepy-beaver-9ce1de.netlify.app/metodos-de-iteracion-sobre-arrays-en-javascript.html</loc>
+<lastmod>2020-07-21T02:02:07-05:00</lastmod>
+</url>
+</urlset>
