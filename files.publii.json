@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "ef05ddfccb3b7df72b23587eac03c42a"
+        "md5": "9a11fc5375bf66b1a8cfd4e3ee86d401"
     },
     {
         "path": "assets",
@@ -107,47 +107,47 @@
     {
         "path": "/authors/jorge/index.html",
         "type": "file",
-        "md5": "3d9c8760d1410c3663480b4a04d5dc66"
+        "md5": "1e5d0df5009393e521065fc1212fdfd1"
     },
     {
         "path": "callbacks-vs-promises-en-javascript.html",
         "type": "file",
-        "md5": "78a415f46a533c1a9c72d4aa89064b42"
+        "md5": "47e1ec7416ae6e5f0af48aa57829cba6"
     },
     {
         "path": "como-aprender-ingles-efectivamente.html",
         "type": "file",
-        "md5": "bc03042f173dec64e33857862ef734d0"
+        "md5": "fcb9892797121fa5a4304e421e12ba22"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "6d5cac6b476cd1679e85ad1393259901"
+        "md5": "eede16ff06e011c5279dc055f1900b98"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "b011015c436226ed37c10ca80391e64f"
+        "md5": "551cd5f71d6688092c5b306a441cf53e"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "dc26ce6487229a819d06c9342d37c190"
+        "md5": "663eff7131ab59acacf77843e2f08122"
     },
     {
         "path": "jorge-sepulveda.html",
         "type": "file",
-        "md5": "7bec67b60c48f75cd19b64b8d1de14f5"
+        "md5": "674ccad00eb625806c8c661ffc161a26"
     },
     {
         "path": "las-ventajas-de-los-sitios-web-estaticos.html",
         "type": "file",
-        "md5": "e8a2ef965d69861e81c202aedd3d6b78"
+        "md5": "43a64b256561c0c870ff48cba88d1a04"
     },
     {
         "path": "los-mejores-canales-de-youtube-para-programadores-en-el-2018.html",
         "type": "file",
-        "md5": "b955ca0c0c3d47be9d8a7e4c8c24e873"
+        "md5": "d10e2af729b0374f8ae2b0236f283e15"
     },
     {
         "path": "media",
@@ -442,17 +442,17 @@
     {
         "path": "metodos-de-iteracion-sobre-arrays-en-javascript.html",
         "type": "file",
-        "md5": "58611767c4445149747a42cf6bc1e2df"
+        "md5": "066eb95f5bd2af8a2fa82fde551928ba"
     },
     {
         "path": "search.html",
         "type": "file",
-        "md5": "1826fdede5b8772582df0f39718957cd"
+        "md5": "1aa4a71e1017d0c292ed66ce7181f293"
     },
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "651b59ccaff008826f64be17c5a93b34"
+        "md5": "6dc55c8dff65053dcbfb05ee6806bd0c"
     },
     {
         "path": "sitemap.xsl",
@@ -472,7 +472,7 @@
     {
         "path": "/tags/aprendizaje/index.html",
         "type": "file",
-        "md5": "f20f5feb0a69050dc90bfddc498d63b3"
+        "md5": "cf53824b930f25cc343cc5c3ef85ffcf"
     },
     {
         "path": "tags/ingles",
@@ -482,6 +482,6 @@
     {
         "path": "/tags/ingles/index.html",
         "type": "file",
-        "md5": "4d7da24eaf0702b15f4cba2489d68dd6"
+        "md5": "8e76047e7b001334b0813d02b9387b51"
     }
 ]
