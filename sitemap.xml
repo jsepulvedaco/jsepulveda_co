@@ -5,20 +5,8 @@
 <loc>https://www.jsepulveda.co/</loc>
 </url>
 <url>
-<loc>https://www.jsepulveda.co/callbacks-vs-promises-en-javascript.html</loc>
-<lastmod>2020-07-21T01:16:58-05:00</lastmod>
-</url>
-<url>
-<loc>https://www.jsepulveda.co/como-aprender-ingles-efectivamente.html</loc>
-<lastmod>2020-07-21T09:57:41-05:00</lastmod>
-<image:image>
-<image:loc>https://www.jsepulveda.co/media/posts/1/english-2724442_1280.jpg</image:loc>
-<image:title><![CDATA[Banner sobre el idioma inglés]]></image:title>
-</image:image>
-</url>
-<url>
-<loc>https://www.jsepulveda.co/jorge-sepulveda.html</loc>
-<lastmod>2020-07-21T15:50:09-05:00</lastmod>
+<loc>https://www.jsepulveda.co/about.html</loc>
+<lastmod>2020-07-21T18:22:57-05:00</lastmod>
 <image:image>
 <image:loc>https://www.jsepulveda.co/media/posts/2/gatas-3.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -26,6 +14,18 @@
 <image:image>
 <image:loc>https://www.jsepulveda.co/media/posts/2/halterofilia-3.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://www.jsepulveda.co/callbacks-vs-promises-en-javascript.html</loc>
+<lastmod>2020-07-21T01:16:58-05:00</lastmod>
+</url>
+<url>
+<loc>https://www.jsepulveda.co/como-aprender-ingles.html</loc>
+<lastmod>2020-07-21T18:21:52-05:00</lastmod>
+<image:image>
+<image:loc>https://www.jsepulveda.co/media/posts/1/english-2724442_1280.jpg</image:loc>
+<image:title><![CDATA[Banner sobre el idioma inglés]]></image:title>
 </image:image>
 </url>
 <url>
