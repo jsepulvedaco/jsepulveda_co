@@ -14,10 +14,10 @@
         <author>
             <name>Jorge</name>
         </author>
-        <link href="https://www.jsepulveda.co/las-ventajas-de-los-sitios-web-estaticos.html"/>
-        <id>https://www.jsepulveda.co/las-ventajas-de-los-sitios-web-estaticos.html</id>
+        <link href="https://www.jsepulveda.co/las-ventajas-de-los-sitios-web-estaticos/"/>
+        <id>https://www.jsepulveda.co/las-ventajas-de-los-sitios-web-estaticos/</id>
 
-        <updated>2020-07-21T18:23:03-05:00</updated>
+        <updated>2020-07-24T01:02:55-05:00</updated>
             <summary>
                 <![CDATA[
                     Los sitios web están formados de documentos de texto que son enviados a través de internet a tu navegador web (sea Firefox, Safary, Chrome y -ojalá no- Interner Explorer), que los interpreta y los muestra en la pantalla del computador, celular o tablet. Cada vez&hellip;
@@ -46,10 +46,10 @@
         <author>
             <name>Jorge</name>
         </author>
-        <link href="https://www.jsepulveda.co/los-mejores-canales-de-youtube-para-programadores-en-el-2018.html"/>
-        <id>https://www.jsepulveda.co/los-mejores-canales-de-youtube-para-programadores-en-el-2018.html</id>
+        <link href="https://www.jsepulveda.co/los-mejores-canales-de-youtube-para-programadores-en-el-2018/"/>
+        <id>https://www.jsepulveda.co/los-mejores-canales-de-youtube-para-programadores-en-el-2018/</id>
 
-        <updated>2020-07-21T18:23:03-05:00</updated>
+        <updated>2020-07-24T01:02:55-05:00</updated>
             <summary>
                 <![CDATA[
                     En todo el tiempo que me he dedicado a explorar youtube buscando tutoriales y cosas para aprender, he dado con un grupo particular de canales sobre desarrollo de software en general. Algunos de estos tienen muy buenos tutoriales para aprender lenguajes, librerías y frameworks. Otros tienen&hellip;
@@ -86,10 +86,11 @@
         <author>
             <name>Jorge</name>
         </author>
-        <link href="https://www.jsepulveda.co/metodos-de-iteracion-sobre-arrays-en-javascript.html"/>
-        <id>https://www.jsepulveda.co/metodos-de-iteracion-sobre-arrays-en-javascript.html</id>
+        <link href="https://www.jsepulveda.co/metodos-de-iteracion-sobre-arrays-en-javascript/"/>
+        <id>https://www.jsepulveda.co/metodos-de-iteracion-sobre-arrays-en-javascript/</id>
+            <category term="Javascript"/>
 
-        <updated>2020-07-21T18:23:03-05:00</updated>
+        <updated>2020-07-24T01:02:55-05:00</updated>
             <summary>
                 <![CDATA[
                     En Javascript existen una serie de métodos que nos permiten iterar sobre los elementos de un array de forma sencilla ahorrandonos mucho trabajo. Estos métodos hacen parte de las funciones de orden superior y hacen parte de la programación funcional de Javascript. Digamos que tenemos&hellip;
@@ -298,10 +299,11 @@
         <author>
             <name>Jorge</name>
         </author>
-        <link href="https://www.jsepulveda.co/callbacks-vs-promises-en-javascript.html"/>
-        <id>https://www.jsepulveda.co/callbacks-vs-promises-en-javascript.html</id>
+        <link href="https://www.jsepulveda.co/callbacks-vs-promises-en-javascript/"/>
+        <id>https://www.jsepulveda.co/callbacks-vs-promises-en-javascript/</id>
+            <category term="Javascript"/>
 
-        <updated>2020-07-21T18:23:03-05:00</updated>
+        <updated>2020-07-24T01:02:55-05:00</updated>
             <summary>
                 <![CDATA[
                     Cuando hablamos de operaciones asíncronas, nos referimos a aquellas operaciones que no bloquean el hilo principal de Javascript cuando hacen alguna petición a la red o de entrada y salida del disco duro. El efecto de esto es que el código no se ejecuta siempre&hellip;
@@ -467,12 +469,12 @@
         <author>
             <name>Jorge</name>
         </author>
-        <link href="https://www.jsepulveda.co/como-aprender-ingles.html"/>
-        <id>https://www.jsepulveda.co/como-aprender-ingles.html</id>
+        <link href="https://www.jsepulveda.co/como-aprender-ingles/"/>
+        <id>https://www.jsepulveda.co/como-aprender-ingles/</id>
             <category term="Inglés"/>
             <category term="Aprendizaje"/>
 
-        <updated>2020-07-21T18:23:03-05:00</updated>
+        <updated>2020-07-24T01:02:55-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.jsepulveda.co/media/posts/1/english-2724442_1280.jpg" alt="Banner sobre el idioma inglés" />

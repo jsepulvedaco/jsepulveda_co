@@ -2,12 +2,17 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "594da5f2c9ad0dd4a68eafaf01f1a60e"
+        "md5": "4e292534d778d2bbe739d962ab8ca8d4"
     },
     {
-        "path": "about.html",
+        "path": "about",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/about/index.html",
         "type": "file",
-        "md5": "9d2c8f6a3037cbccf3a214cfad1b9e20"
+        "md5": "49721a90f230abe3d38df1af9e025bc9"
     },
     {
         "path": "assets",
@@ -112,42 +117,62 @@
     {
         "path": "/authors/jorge/index.html",
         "type": "file",
-        "md5": "d7e270fdb57776313850b68f01127dfe"
+        "md5": "3f0905b4b73bd393387275c0f21fac4e"
     },
     {
-        "path": "callbacks-vs-promises-en-javascript.html",
-        "type": "file",
-        "md5": "18294ef7bf655d158e36a3613dcfc267"
+        "path": "callbacks-vs-promises-en-javascript",
+        "type": "directory",
+        "md5": false
     },
     {
-        "path": "como-aprender-ingles.html",
+        "path": "/callbacks-vs-promises-en-javascript/index.html",
         "type": "file",
-        "md5": "da4ef32848314ec58118cf8344ea0567"
+        "md5": "388c2e0f5a11c43c67c04f497076e4aa"
+    },
+    {
+        "path": "como-aprender-ingles",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/como-aprender-ingles/index.html",
+        "type": "file",
+        "md5": "c4794f759fe19a950a455d2734a6b12c"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "1a6c05283a1d10e9d2ab2267a5c18509"
+        "md5": "800809e34b03703de1e18ea67641df67"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "8f0af67b0cc834b969b5a1b346d9e110"
+        "md5": "ea655f341a18dd7de9ddec5c62bebcea"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "d5e0d95402f7153fa0fffc77a2f499bf"
+        "md5": "92505e11dd18659e3e25d269280ef139"
     },
     {
-        "path": "las-ventajas-de-los-sitios-web-estaticos.html",
-        "type": "file",
-        "md5": "7cdcf4708e86d2deb2f77ab09f9c84e0"
+        "path": "las-ventajas-de-los-sitios-web-estaticos",
+        "type": "directory",
+        "md5": false
     },
     {
-        "path": "los-mejores-canales-de-youtube-para-programadores-en-el-2018.html",
+        "path": "/las-ventajas-de-los-sitios-web-estaticos/index.html",
         "type": "file",
-        "md5": "308a13f21ab1ac588e246a88dca0df86"
+        "md5": "c51db1c4961ad7429d62236af3479d17"
+    },
+    {
+        "path": "los-mejores-canales-de-youtube-para-programadores-en-el-2018",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/los-mejores-canales-de-youtube-para-programadores-en-el-2018/index.html",
+        "type": "file",
+        "md5": "bf9a61f856777bfd11e56430af2ea247"
     },
     {
         "path": "media",
@@ -440,19 +465,24 @@
         "md5": "c642c8202ab943dcaee2409a1771af9f"
     },
     {
-        "path": "metodos-de-iteracion-sobre-arrays-en-javascript.html",
+        "path": "metodos-de-iteracion-sobre-arrays-en-javascript",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/metodos-de-iteracion-sobre-arrays-en-javascript/index.html",
         "type": "file",
-        "md5": "60680c2b9bc18bc2c647444eb2280587"
+        "md5": "69bec3a4f82e56b6d2961bc8e92cfe83"
     },
     {
         "path": "search.html",
         "type": "file",
-        "md5": "c31b91f11e688312c48aa740a2f53589"
+        "md5": "3841f205915ff3896fca5682c44e089c"
     },
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "c7b5961166e6ca91e0c4cd8820d6259b"
+        "md5": "d87599512975513469dbdd09b90dc8cb"
     },
     {
         "path": "sitemap.xsl",
@@ -472,7 +502,7 @@
     {
         "path": "/tags/aprendizaje/index.html",
         "type": "file",
-        "md5": "0725319b7b58e3b90185098783e4ed2e"
+        "md5": "92f757f9da47c0c01387dca303617d7a"
     },
     {
         "path": "tags/ingles",
@@ -482,6 +512,16 @@
     {
         "path": "/tags/ingles/index.html",
         "type": "file",
-        "md5": "9d0fb1d4d0c9171d406bf4661be1f734"
+        "md5": "a9cf7640b937001509f45b4f1832a3e6"
+    },
+    {
+        "path": "tags/javascript",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/javascript/index.html",
+        "type": "file",
+        "md5": "12fbadbef9a7b538b1866b98f2d27ce6"
     }
 ]
